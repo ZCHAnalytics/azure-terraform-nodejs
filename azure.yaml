@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/alpha/azure.yaml.json
+
+# To learn more about the azure.yaml file, visit https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azd-schema
+
+# Name of the application.
+
+name: azd-starter
+
+infra:
+  provider: terraform
+
+services:
+  web:
+    language: dotnet
+    project: ./src/web
+    host: appservice
+
