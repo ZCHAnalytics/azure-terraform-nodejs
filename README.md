@@ -3,11 +3,11 @@
 
 The project uses Microsoft Learn module on creating a IaaC template with Bicep script and replaces Bicep files with Terraform.
 
-During the process, I corrected code provides by the instructions, as the names of the required arguments became outdated  and there was incorrect syntax in defining tags. 
+During the process, I corrected code provided by the instructions, as the names of the required arguments became outdated and there was incorrect syntax in defining the tags. 
 
-Please see the notebooks for step by step explanation, commands and images documenting the process.
+Please see the notebooks for step by step explanation, commands and images documenting the whole process.
 
-![alt text](image.png)
+<img align="right" alt="project file" src="image.png">
 
 ## 0. Initial set up
 
