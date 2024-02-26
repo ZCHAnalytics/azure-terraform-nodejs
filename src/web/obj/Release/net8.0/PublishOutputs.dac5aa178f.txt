@@ -1,7 +1,0 @@
-C:\Users\Anaya\AppData\Local\Temp\azd909688618\web.exe
-C:\Users\Anaya\AppData\Local\Temp\azd909688618\appsettings.Development.json
-C:\Users\Anaya\AppData\Local\Temp\azd909688618\appsettings.json
-C:\Users\Anaya\AppData\Local\Temp\azd909688618\web.dll
-C:\Users\Anaya\AppData\Local\Temp\azd909688618\web.deps.json
-C:\Users\Anaya\AppData\Local\Temp\azd909688618\web.runtimeconfig.json
-C:\Users\Anaya\AppData\Local\Temp\azd909688618\web.pdb
