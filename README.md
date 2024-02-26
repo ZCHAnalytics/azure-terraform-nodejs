@@ -1,5 +1,29 @@
 # Azure Developer CLI (azd) Terraform Starter
 
+
+The project uses Microsoft Learn module on creating an infrastructure as a code template, replaces Bicep files provided with Terraform files and .NET app source with Node.js. 
+
+During the process, I corrected code snippers provided by Microsoft Learn, as some arguments names became outdated and tags' definition had incorrect syntax. 
+
+Please see the notebooks for step by step explanation, commands and images documenting the whole process.
+
+<img align="right" alt="project file" src="image.png">
+
+## 0. Initial set up
+
+## 1. Adding .NET web application source code
+
+## 2. Adding Terraform files 
+
+## 3. Mapping source code to Azure resources
+
+## 4. Provisioning Azure resources
+
+## 5. Deploying source code
+
+## 6. [In progress] Creating CI/CD pipeline
+
+
 A starter blueprint for getting your application up on Azure using [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview) (azd). Add your application code, write Infrastructure as Code assets in Terraform to get your application up and running quickly.
 
 The following assets have been provided:
