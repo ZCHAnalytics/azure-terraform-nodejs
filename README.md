@@ -7,7 +7,7 @@ During the process, I corrected code snippers provided by Microsoft Learn, as so
 
 Please see the notebooks for step by step explanation, commands and images documenting the whole process.
 
-<img align="right" alt="project file" src="image.png">
+<img align="right" width="200" alt="project file" src="image.png">
 
 ## 0. [Initial set up](0_steps_setup.ipynb)
 
