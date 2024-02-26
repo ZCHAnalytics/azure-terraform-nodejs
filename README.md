@@ -9,16 +9,16 @@ Please see the notebooks for step by step explanation, commands and images docum
 
 <img align="right" alt="project file" src="image.png">
 
-## 0. Initial set up
+## 0. [Initial set up](0_steps_setup.ipynb)
 
-## 1. Adding .NET web application source code
+## 1. [Adding web application source code](1_source_code.ipynb)
 
-## 2. Adding Terraform files 
+## 2. [Adding Terraform files](2_iaac.ipynb) 
 
-## 3. Mapping source code to Azure resources
+## 3. [Mapping source code to Azure host](3_azure_mapping.ipynb)
 
-## 4. Provisioning Azure resources
+## 4. [Provisioning Azure resources](4_provision_resources.ipynb)
 
-## 5. Deploying source code
+## 5. [Deploying source code](5_deploy_code.ipynb)
 
-## 6. [In progress] Creating CI/CD pipeline
+## 6. [Creating CI/CD pipeline - in progress](6_cicd_pipeline)
