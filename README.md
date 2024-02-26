@@ -7,7 +7,7 @@ During the process, I corrected code provides by the instructions, as the names 
 
 Please see the notebooks for step by step explanation, commands and images documenting the process.
 
-![alt text](image.png)
+<img align="right" alt="project file" src="image.png">
 
 ## 0. Initial set up
 
